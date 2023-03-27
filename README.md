@@ -1,1 +1,1 @@
-### studying kotlin language
+### For studying kotlin language
